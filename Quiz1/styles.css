@@ -1,0 +1,11 @@
+.container {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-family: 'Crimson Text', serif;
+}
+
+body {
+  background-image: url(https://w0.peakpx.com/wallpaper/611/898/HD-wallpaper-orange-landscape-morning-minimal.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
